@@ -1,0 +1,36 @@
+.hero-header {
+  background: url('./Assets/bg1.webp') no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (min-width:640px) {
+  .hero-header {
+    background: url('./Assets/bg1.webp');
+    background-size: cover;
+  }
+}
+
+@media only screen and (min-width:768px) {
+  .hero-header {
+    background: url('./Assets/bg1.webp') no-repeat;
+    background-size: cover;
+  }
+}
+
+@media only screen and (min-width:1024px) {
+  .hero-header {
+    background: url('./Assets/bg1.webp') no-repeat;
+    background-size: cover;
+  }
+}
+
+@media only screen and (min-width:1025px) {
+  .hero-header {
+    background: url('./Assets/bg1.webp') no-repeat;
+    background-size: cover;
+  }
+} 
+  /* Default background by https://www.pexels.com/@knownasovan */
+  .hero-header {
+    background:url('./Assets/bg1.webp') no-repeat;
+    background-size: cover;}
